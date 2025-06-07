@@ -19,7 +19,7 @@ Players can restart the game anytime to try again.
 
  🧰 Technologies Used
 
-Python 3: 3.12.10
+Python 3: version - 3.12.10
 Tkinter(for GUI)
 random module (for number generation)
 Developed in IDLE
@@ -34,12 +34,12 @@ Developed in IDLE
 
 📷 Screenshots
 
-
+Number_Guessing_Game.png
 
 💻 How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/number-guessing-game.git
+   git clone https://github.com/TamizhselvanV/number-guessing-game.git
 
 2. Navigate into the folder:
    cd number-guessing-game
@@ -62,7 +62,7 @@ number-guessing-game/
 ├── number_guess_gui.py
 ├── README.md
 └── screenshots/
-    └── number_guessing_gui.png
+    └── Number_Guessing_Game.png
 
 ### 🔗 GitHub Repository
 
